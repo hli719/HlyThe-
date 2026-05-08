@@ -1,0 +1,1 @@
+README.Recipe Search App | React Native, Expo, TypeScript | github.com/HliThe/recipe-app - Developed & shipped cross-platform mobile app with live Expo demo - Engineered instant search with debounce & caching, reducing API calls 70% - Implemented offline-first architecture for favorites featuremd
